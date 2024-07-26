@@ -1,7 +1,7 @@
 # Runnig Linux on a IBM Thinkpad 600E
 
-Is it possible to run a modern Linux on a
-24 years old (1999) Thinkpad 600E?
+Is it possible to run a "modern" Linux on a
+25 years old (1999) Thinkpad 600E?
 
 Yes it is!
 
@@ -9,6 +9,7 @@ Yes it is!
 
 | Distro                                  | Version | Kernel | X Server    | CD Image
 | --------------------------------------- | ------- | ------ | ----------- | -------------------------------------------------------------------------------------------------------------------------
+| [Tiny Core](http://tinycorelinux.net)   | 15.0    | 6.6    | tinyx 1.2   | [CorePlus-15.0.iso](http://tinycorelinux.net/15.x/x86/release/CorePlus-15.0.iso)
 | [Tiny Core](http://tinycorelinux.net)   | 14.0    | 6.1    | tinyx 1.2   | [CorePlus-14.0.iso](http://tinycorelinux.net/14.x/x86/release/CorePlus-14.0.iso)
 | [Alpine](https://www.alpinelinux.org/)  | 3.17    | 5.15   | Xorg 21.1   | [alpine-standard-3.17.3-x86.iso](https://dl-cdn.alpinelinux.org/alpine/v3.17/releases/x86/alpine-standard-3.17.3-x86.iso)
 | [antiX](https://antixlinux.com/)        | 22      | 4.9    |             | [antiX-22_386-core.iso](https://sourceforge.net/projects/antix-linux/files/Final/antiX-22/antiX-22_386-core.iso/download)
