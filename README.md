@@ -23,3 +23,10 @@ Yes it is!
 | Arch 32   | 2023.03.02 | Stops with blinking cursor on boot
 | Void      | 5.19       | requires SSE2
 | Debian    | 12         | requires SSE2 and PAE
+
+## Hardware Specs
+
+- CPU: Mobile Pentium II 366 MHz
+- GPU: Neomagic MagicMedia256AV with 2.5MB
+- RAM: 128 MB
+- Display: 13" TFT / 1024x786
